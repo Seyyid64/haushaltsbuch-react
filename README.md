@@ -1,1 +1,1 @@
-Haushaltsbuch-App mit Javascript Vanilla von Ruben Winkler (Udemy Kurs) im ReactJS nachgebaut.
+Haushaltsbuch-App mit Javascript Vanilla von Ruben Winkler (Udemy Kurs) mit ReactJS nachgebaut.
