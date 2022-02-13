@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14ab65ab.css",
+    "main.js": "/static/js/main.fc6185a6.js",
+    "static/media/amatic-sc-v13-latin-regular.woff": "/static/media/amatic-sc-v13-latin-regular.4b5fc586e24677ff9a97.woff",
+    "static/media/amatic-sc-v13-latin-regular.woff2": "/static/media/amatic-sc-v13-latin-regular.fccf8d1e71f52fb89f4f.woff2",
+    "static/media/oswald-v31-latin-700.woff": "/static/media/oswald-v31-latin-700.305c78bdd76c416b3a57.woff",
+    "static/media/oswald-v31-latin-300.woff": "/static/media/oswald-v31-latin-300.7f2fe79f109058797bf9.woff",
+    "static/media/oswald-v31-latin-regular.woff": "/static/media/oswald-v31-latin-regular.3d1d485b3ed0d998b43f.woff",
+    "static/media/oswald-v31-latin-700.woff2": "/static/media/oswald-v31-latin-700.71a8bdd7566d6ad4f83c.woff2",
+    "static/media/oswald-v31-latin-300.woff2": "/static/media/oswald-v31-latin-300.40b7bb2b8088e8266ba3.woff2",
+    "static/media/oswald-v31-latin-regular.woff2": "/static/media/oswald-v31-latin-regular.5ee68289b9bf597a8aff.woff2",
+    "index.html": "/index.html",
+    "main.14ab65ab.css.map": "/static/css/main.14ab65ab.css.map",
+    "main.fc6185a6.js.map": "/static/js/main.fc6185a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ab65ab.css",
+    "static/js/main.fc6185a6.js"
+  ]
+}
